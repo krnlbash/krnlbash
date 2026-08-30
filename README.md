@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a Cybersecurity student at Air University's National Cyber Security Academy (NCSA), Islamabad. I'm interested in the cyber aspect of air warfare, and I'm building my skills toward that direction.
+I'm a Cybersecurity student at Air University's National Cyber Security Academy (NCSA), Air University, Islamabad. I'm interested in the cyber aspect of air warfare, and I'm building my skills toward that direction.
 
 ---
 
