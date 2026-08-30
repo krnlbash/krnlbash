@@ -42,3 +42,5 @@ I'm interested in the cyber aspect of air warfare, and I'm building my skills to
 ### Projects
 
 Check my pinned repositories below for what I'm currently working on. This list will keep growing as I add more.
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6a0dad&height=120&section=footer" width="100%"/> </div>
