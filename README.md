@@ -27,8 +27,6 @@ I'm interested in the cyber aspect of air warfare, and I'm building my skills to
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 
 </div>
 
