@@ -6,9 +6,7 @@
 
 ### About Me
 
-I'm a Cybersecurity student at Air University's National Cyber Security Academy (NCSA), Islamabad. I'm currently working on pwn and web exploitation together, since that combination is what's actually needed for the cyber side of air warfare — the same applies to drones and self-driving systems, where software and hardware security overlap.
-
-I'm interested in the cyber aspect of air warfare, and I'm building my skills toward that direction.
+I'm a Cybersecurity student at Air University's National Cyber Security Academy (NCSA), Islamabad. I'm interested in the cyber aspect of air warfare, and I'm building my skills toward that direction.
 
 ---
 
