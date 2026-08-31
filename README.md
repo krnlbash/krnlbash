@@ -14,7 +14,7 @@ I'm a Cybersecurity student at Air University's National Cyber Security Academy 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,html,css,js,bash" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,bash" />
 
 </div>
 
