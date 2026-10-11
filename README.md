@@ -6,7 +6,7 @@
 
 ### About Me
 
-I'm a Cybersecurity student at Air University's National Cyber Security Academy (NCSA), Air University, Islamabad. I'm interested in the cyber aspect of air warfare, and I'm building my skills toward that direction.
+I'm a BS Cybersecurity student at Air University's National Cyber Security Academy (NCSA), Islamabad. I've been interested in the cyber side of modern air warfare since school, things like radar systems, air defence networks and avionics, and how an adversary would actually go about breaking them. DFIR is another area I'm into, mostly from the SOC side so far.
 
 ---
 
@@ -24,21 +24,33 @@ I'm a Cybersecurity student at Air University's National Cyber Security Academy 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,netlify" />
 
 </div>
+
+Also worked with: Wireshark, Splunk, Wazuh, MITRE ATT&CK, NIST IR process
+
+---
+
+### Experience
+
+- **SOC Analyst Intern**, Tech Biz Security (remote, Aug 2026 to Sep 2026): SOC fundamentals, log analysis, SIEM, phishing analysis, threat intel, and a full incident investigation report as the capstone
+- **Ethical Hacking Intern**, Tech Biz Security (remote, Oct 2026)
 
 ---
 
 ### Certifications
 
-- **Certified Cybersecurity Foundations** — Hackviser (Aug 2026)
-- **ISO/IEC 27001:2022 Information Security Associate™** — SkillFront (Aug 2026)
+- **ISC2 Certified in Cybersecurity (CC)** (Sep 2026)
+- **Certified Cybersecurity Foundations (CORE)**, Hackviser (Aug 2026)
+- **ISO/IEC 27001:2022 Information Security Associate™**, SkillFront (Aug 2026)
+- **Certified Cyber Security Analyst (C3SA)**, CyberWarfare Labs (Oct 2026)
+- **Certified Blue Team Fundamentals (BTF)**, CyberWarfare Labs (Oct 2026)
 
 ---
 
 ### Projects
 
-Check my pinned repositories below for what I'm currently working on. This list will keep growing as I add more.
+Check out my repositories below.
 
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:6a0dad&height=120&section=footer" width="100%"/> </div>
