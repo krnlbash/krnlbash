@@ -24,7 +24,7 @@ I'm a BS Cybersecurity student at Air University's National Cyber Security Acade
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,nodejs,netlify" />
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,netlify" />
 
 </div>
 
