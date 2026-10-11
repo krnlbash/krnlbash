@@ -32,13 +32,6 @@ Also worked with: Wireshark, Splunk, Wazuh, MITRE ATT&CK, NIST IR process
 
 ---
 
-### Experience
-
-- **SOC Analyst Intern**, Tech Biz Security (remote, Aug 2026 to Sep 2026): SOC fundamentals, log analysis, SIEM, phishing analysis, threat intel, and a full incident investigation report as the capstone
-- **Ethical Hacking Intern**, Tech Biz Security (remote, Oct 2026)
-
----
-
 ### Certifications
 
 - **ISC2 Certified in Cybersecurity (CC)** (Sep 2026)
